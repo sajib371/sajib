@@ -1,0 +1,32 @@
+div{
+    background-color: aqua;
+    margin: 30px;
+    padding: 25px 35px;
+    border: 15px solid rgb(0, 255, 115);
+    border-radius: 25px;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+small{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(247, 168, 0, 0.906);
+}
+small{
+    display: block;
+    text-align: right;
+}
+body{
+    background-color: bisque;
+}
+span{
+    color: blue;
+}
